@@ -1,0 +1,94 @@
+body{
+  width: 100%;
+  margin auto;
+  max-widht: 800px;
+
+  background: url(fundo.jpg) center;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #47effa;
+  color: #fff8f5;
+
+
+
+
+
+}
+
+main{
+  background-color: #00000085;
+}
+
+.Logo{
+  text-align: center;
+
+}
+.intro{
+  text-align: center;
+}
+.questoes{
+  text-align: left;
+  padding: 5px 412px;
+  font-size: 20pt;
+
+}
+.respos1{
+  text-align: left;
+
+}
+.respos2{
+    text-align: left;
+}
+.respos3{
+      text-align: left;
+
+}
+.respos4{
+    text-align: left;
+}
+.respos5{
+    text-align: left;
+}
+.respos6{
+    text-align: left;
+}
+.respos7{
+  text-align: left;
+}
+.respos8{
+  text-align: left;
+}
+.respos9{
+  text-align: left;
+}
+.respos10{
+  text-align: left;
+}
+.respos11{
+  text-align: left;
+}
+.respos12{
+  text-align: left;
+}
+.respos13{
+  text-align: left;
+}
+.respos14{
+  text-align: left;
+}
+.respos15{
+  text-align: left;
+}
+.respos16{
+  text-align: left;
+}
+.respos17{
+  text-align: left;
+}
+.respos18{
+  text-align: left;
+}
+.respos19{
+  text-align: left;
+}
