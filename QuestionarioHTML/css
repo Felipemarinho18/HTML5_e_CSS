@@ -1,0 +1,61 @@
+{
+ margem : 0 ;
+ preenchimento : 0 ;
+ dimensionamento da caixa : caixa de borda;
+}
+corpo {
+ background : url (fundo.jpg);
+ anexo de fundo : fixo;
+ tamanho do fundo : 100 % ;
+ repetição de fundo : sem repetição;
+ cor de fundo : # 47effa ;
+ cor : # fff8f5 ;
+}
+. container {
+ largura : 900 px ;
+ cor de fundo : # 00000085 ;
+ margem : automático;
+ preenchimento : 80 px ;
+ margem superior : 100 px ;
+ raio da borda : 5 px ;
+}
+. content  h1 {
+ alinhamento de texto : centro;
+ margem superior : 40 px ;
+}
+header  img {
+ display : flex;
+ alinhar-itens : centro;
+ justificar o conteúdo : centro;
+ margem esquerda : 150 px ;
+ margem inferior : 20 px ;
+}
+header  ul {
+ margem superior : 30 px ;
+ display : flex;
+ justificar o conteúdo : centro;
+ alinhar-itens : centro;
+}
+header  ul  li {
+ margem direita : 60 px ;
+ estilo de lista : nenhum;
+}
+header  ul  li  a {
+ decoração de texto : nenhum;
+ cor : # fff8f5 ;
+}
+header  ul  li  a : hover {
+ raio da borda : 5 px ;
+ transição : 0,5 s ;
+ preenchimento : 10 px ;
+ cor de fundo :   # fff8f5 ;
+ cor : # 00000085 ;
+}
+. btm {
+ raio da borda : 5 px ;
+ fronteira : nenhum;
+ largura : 200 px ;
+ preenchimento : 10 px ;
+ cor de fundo : # 47effa ;
+ cor : # 00000085 ;
+} 
